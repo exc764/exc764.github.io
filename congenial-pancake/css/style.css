@@ -1,0 +1,21 @@
+main {
+  background-color: #5A7684;
+}
+li {
+    list-style-type: none;
+}
+main h1{
+  font-family: "Comic Sans", cursive, sans-serif;
+}
+
+main h2{
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+main  h3{
+  font-family: Papyrus, fantasy;
+}
+
+body{
+  font-family: "Comic Sans", cursive, sans-serif;
+}
