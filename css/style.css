@@ -74,6 +74,10 @@ main article{
 section div{
   float: center;
 }
+
+main article{
+  text-align: center;
+}
 a:link {
   color: black;
 }
