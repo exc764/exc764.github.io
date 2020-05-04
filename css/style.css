@@ -72,7 +72,7 @@ main article{
 }
 
 section div{
-
+  float: center;
 }
 a:link {
   color: black;
